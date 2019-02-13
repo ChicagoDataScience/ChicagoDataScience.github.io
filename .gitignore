@@ -3,3 +3,5 @@
 local_*
 temp*
 *.pickle
+.Rhistory
+gen_syllabus.sh
