@@ -1,7 +1,4 @@
 .DS_Store
 .ipynb_checkpoints
-local_*
-temp*
 *.pickle
 .Rhistory
-gen_syllabus.sh
